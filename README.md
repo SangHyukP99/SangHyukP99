@@ -19,7 +19,7 @@
           <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white">
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-    </div>
+    </div><br><br>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects & Skills</h2>
 
     
