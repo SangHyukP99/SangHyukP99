@@ -23,15 +23,15 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏃Experiences</h2>
 
     
-| 카테고리 | 기술 및 툴 | 주요 내용 및 경험 |
-| :--- | :--- | :--- |
-| **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
-| ** ** | C  | FND 제어기 및 모터 PWM 제어 시스템 구현 |
-| ** ** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
-| **Hardware / PCB** | Altium Designer, PSpice | 2-Layer 고밀도 PCB 회로 설계 및 시뮬레이션 |
-| **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
-| **Experience** | EMC 평가 | (BWS TECH) 2024년 여름 하계 인턴 수료 |
-| **Activity** | 중앙 봉사 동아리 | 동아리 회장 역임 및 단체 활성화 주도 |
+| 카테고리 | 기술 및 툴 | 주요 내용 | 세부 내용 |
+| :--- | :--- | :--- | : --- |
+| **Project** | C , UART | 3층 소형 엘레베이터 시스템 구현(층별 엘레베이터 액추에이터) | |
+|  | C , Linux  | RFID 기반 IoT 무인 대출/반납 키오스크 시스템 구현 | |
+|  | C , Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 | |
+|  | Altium Designer | 2-Layer 고밀도 PCB 회로 설계 및 시뮬레이션 | |
+|  | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 | |
+| **Experience** | EMC 평가 | (BWS TECH) 2024년 여름 하계 인턴 수료 | EMC 파트에 배치되어 EMC 관련 표준 및 규격을 학습하며 테스트 절차와 장비 사용법을 익혔습니다. 스펙트럼 분석기와 EMI 테스트 리시버를 통해 방사성 및 전도성 EMI 테스트 수행하였습니다.|
+| **Activity** | 중앙 봉사 동아리 | 동아리 회장 역임 및 단체 활성화 주도 | |
 
 <br>
 
