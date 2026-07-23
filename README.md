@@ -15,7 +15,32 @@
     <div style="text-align: left;">  </div> 
     </div>
     
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1259b5,100:76c0c1&height=180&text=SangHyuk's%20Profile&animation=&fontColor=ffffff&fontSize=70" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> SangHyuk's Profile </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 좌우명 : 익숙함에 속아 소중함을 잃지 말자</li><li> 사람과 더불어 문제를 해결해가며 꾸준히 성장하는 개발자입니다</li><li> 성실함과 강한 책임감이 강점입니다 (학부 때 중앙 동아리 회장 경험이 있습니다.)</li><li> 오류의 원인을 찾아 해결하는 것을 좋아합니다</li></li></li> </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:tkdgur8828@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tkdgur8828@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    
 <!--
 **SangHyukP99/SangHyukP99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
