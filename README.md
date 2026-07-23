@@ -15,7 +15,7 @@ d<div align= "center">
           <img src = "https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white">
           <img src = "https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white"><br><br>
         📓Environments <br><br>
-          ![](https://shields.io)<img src="https://shields.io" alt="STM32">
+          ![](https://shields.io) ![](https://shields.io)<img src="https://shields.io" alt="STM32">
           <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STM32&logoColor=white">
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
