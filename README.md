@@ -21,6 +21,7 @@
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects & Skills</h2>
+    
 | 카테고리 | 기술 및 툴 | 주요 내용 및 경험 |
 | :--- | :--- | :--- |
 | **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
