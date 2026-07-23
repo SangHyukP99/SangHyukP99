@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1259b5,100:76c0c1&height=180&text=SangHyuk's%20Profile&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> SangHyuk's Profile </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡SangHyuk's Profile </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 좌우명 : 익숙함에 속아 소중함을 잃지 말자</li><li> 사람과 더불어 문제를 해결해가며 꾸준히 성장하는 개발자입니다.</li><li> 성실함과 강한 책임감이 강점입니다. (학부 시절 중앙 동아리 회장 경험)</li><li> 오류의 원인을 찾아 해결하는 것을 좋아합니다.</li></li></li> </div> 
     </div>
     <div style="text-align: left;">
@@ -10,6 +10,7 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+          <!-- C 언어 -->
           <img src = "https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">  
