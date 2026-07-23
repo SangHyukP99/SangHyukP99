@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💡SangHyuk's Profile </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"><span style="font-size: 50px;"> 안녕하세요, 시스템의 신뢰성을 극대화하는 하드웨어·디지털 제어 설계자 박상혁입니다.<br><br> <li> MOTTO : 익숙함에 속아 소중함을 잃지 말자</li><li> TO BE : 사람과 더불어 문제를 해결해가며 꾸준히 성장하는 개발자입니다.</li><li> STRENGTH : 성실함과 강한 책임감이 강점입니다. (학부 시절 팀장 및 중앙 동아리 회장 경험)</li><li> LIKE : 오류의 원인을 찾아 해결하는 것을 좋아합니다.</li></li></li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <span style="font-size: 25px;">안녕하세요, 시스템의 신뢰성을 극대화하는 하드웨어·디지털 제어 설계자 박상혁입니다.</span><br><br> <li> MOTTO : 익숙함에 속아 소중함을 잃지 말자</li><li> TO BE : 사람과 더불어 문제를 해결해가며 꾸준히 성장하는 개발자입니다.</li><li> STRENGTH : 성실함과 강한 책임감이 강점입니다. (학부 시절 팀장 및 중앙 동아리 회장 경험)</li><li> LIKE : 오류의 원인을 찾아 해결하는 것을 좋아합니다.</li></li></li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
