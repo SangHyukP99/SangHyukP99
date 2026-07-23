@@ -20,6 +20,14 @@
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
     </div>
+    ### 🚀 Projects & Skills
+
+| 카테고리 | 기술 및 툴 | 주요 내용 및 경험 |
+| :--- | :--- | :--- |
+| **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
+| **Hardware / PCB** | Altium Designer, PSpice | 2-Layer 고밀도 회로 설계 및 시뮬레이션 |
+| **Experience** | EMC 평가 | 2024년 여름 인턴십 수료 |
+| **Activity** | 중앙 봉사 동아리 | 동아리 회장 역임 및 단체 활성화 주도 |
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:tkdgur8828@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tkdgur8828@gmail.com"> </a>
