@@ -20,14 +20,14 @@
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
     </div><br><br>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🚀 Projects & Skills</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏃Experiences</h2>
 
     
 | 카테고리 | 기술 및 툴 | 주요 내용 및 경험 |
 | :--- | :--- | :--- |
 | **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
-| **Hardware / PCB** | Altium Designer, PSpice | 2-Layer 고밀도 회로 설계 및 시뮬레이션 |
-| **Experience** | EMC 평가 | 2024년 여름 인턴십 수료 |
+| **Hardware / PCB** | Altium Designer, PSpice | 2-Layer 고밀도 PCB 회로 설계 및 시뮬레이션 |
+| **Experience** | EMC 평가 | (BWS TECH) 2024년 여름 하계 인턴 수료 |
 | **Activity** | 중앙 봉사 동아리 | 동아리 회장 역임 및 단체 활성화 주도 |
 
 <br>
