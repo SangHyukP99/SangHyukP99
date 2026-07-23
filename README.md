@@ -10,12 +10,12 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
+          <img src = "https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">  
           <img src = "https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STM32&logoColor=white">
           <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
           <img src = "https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white">
-          <img src = "https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white">
           <br/>
           </div>
     </div>
