@@ -29,8 +29,6 @@
 | **Experience** | EMC 평가 | 2024년 여름 인턴십 수료 |
 | **Activity** | 중앙 봉사 동아리 | 동아리 회장 역임 및 단체 활성화 주도 |
 
-<br>
-
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
 
 <br>
