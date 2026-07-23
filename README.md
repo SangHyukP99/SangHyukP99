@@ -14,7 +14,7 @@ d<div align= "center">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src = "https://img.shields.io/badge/altium_designer-%23A5915F.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white">
-          <img src = "https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white"><br>
+          <img src = "https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white">
         📓Environments <br><br>
           <img src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=UBUNTU&logoColor=white">  
           <img src = "https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STM32&logoColor=white">
