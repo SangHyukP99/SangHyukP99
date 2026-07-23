@@ -26,7 +26,10 @@
 | 카테고리 | 기술 및 툴 | 주요 내용 및 경험 |
 | :--- | :--- | :--- |
 | **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
+| **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
+| **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
 | **Hardware / PCB** | Altium Designer, PSpice | 2-Layer 고밀도 PCB 회로 설계 및 시뮬레이션 |
+| **Programming** | C (Low-level), Verilog HDL | FND 제어기 및 모터 PWM 제어 시스템 구현 |
 | **Experience** | EMC 평가 | (BWS TECH) 2024년 여름 하계 인턴 수료 |
 | **Activity** | 중앙 봉사 동아리 | 동아리 회장 역임 및 단체 활성화 주도 |
 
